@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="49.109" viewBox="756 29.8 52 51.064" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Maps-Navigation / Maps / maps-pin-1" transform="matrix(1, 0, 0, 1, 1, 0.977884)">
+    <g data-name="Group 13">
+      <g data-name="maps-pin-1" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M771.217 40.421v34.533" data-name="Shape 39" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M786.435 51.291V29.8" data-name="Shape 40" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m784.26 65.887-12.41 8.865a1.084 1.084 0 0 1-1.265 0l-14.13-10.094a1.088 1.088 0 0 1-.455-.884V31.663a1.086 1.086 0 0 1 1.72-.883l13.497 9.641 14.585-10.415a1.09 1.09 0 0 1 1.265 0l14.13 10.094c.286.204.455.535.455.884v10.311" data-name="Shape 41" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M797.304 55.639A8.696 8.696 0 0 1 806 64.335c0 3.871-5.652 11.39-7.843 14.16a1.086 1.086 0 0 1-1.705 0c-2.191-2.77-7.843-10.289-7.843-14.16a8.696 8.696 0 0 1 8.695-8.696z" data-name="Shape 42" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M797.304 67.595a3.262 3.262 0 0 0 0-6.521 3.262 3.262 0 0 0 0 6.521z" data-name="Oval 14" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="23.913" height="23.913" viewBox="285.5 373.5 25.9 25.9" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Gruppe 394">
+    <g data-name="Gruppe 243" transform="translate(285.95 373.95)" clip-path="url(&quot;#a&quot;)" stroke-linejoin="round" stroke-linecap="round" stroke="#004373">
+      <path d="M1.543 2.717h21.914a1 1 0 0 1 1 1v19.74a1 1 0 0 1-1 1H1.543a1 1 0 0 1-1-1V3.717a1 1 0 0 1 1-1z" data-name="Rechteck 151" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M3.804.543v3.261" data-name="Linie 1" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M8.152.543v3.261" data-name="Linie 2" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M12.5.543v3.261" data-name="Linie 3" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M16.848.543v3.261" data-name="Linie 4" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M21.196.543v3.261" data-name="Linie 5" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M4.891 8.152h3.261V12.5H3.804V9.24c0-.6.487-1.088 1.087-1.088z" data-name="Pfad 1950" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M16.848 8.152h3.26c.6 0 1.088.487 1.088 1.087V12.5h-4.348V8.152z" data-name="Pfad 1951" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M12.5 12.5h4.348v4.348h0H12.5h0V12.5h0z" data-name="Rechteck 152" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M12.5 8.152h4.348V12.5h0H12.5h0V8.152h0z" data-name="Rechteck 160" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M16.848 12.5h4.348v4.348h0-4.348 0V12.5h0z" data-name="Rechteck 153" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M12.5 16.848h4.348v4.348h0H12.5h0v-4.348h0z" data-name="Rechteck 154" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M16.848 16.848h4.348v3.26c0 .6-.487 1.088-1.087 1.088h-3.261v-4.348z" data-name="Pfad 1952" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M8.152 12.5H12.5v4.348h0-4.348 0V12.5h0z" data-name="Rechteck 155" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M8.152 8.152H12.5V12.5h0-4.348 0V8.152h0z" data-name="Rechteck 159" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M3.804 12.5h4.348v4.348h0-4.348 0V12.5h0z" data-name="Rechteck 158" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M3.804 16.848h4.348v4.348h-3.26c-.6 0-1.088-.487-1.088-1.087v-3.261z" data-name="Pfad 1954" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+      <path d="M8.152 16.848H12.5v4.348h0-4.348 0v-4.348h0z" data-name="Rechteck 156" style="fill-opacity: 0; fill: rgba(0, 0, 0, 0);"/>
+    </g>
+  </g>
+</svg>

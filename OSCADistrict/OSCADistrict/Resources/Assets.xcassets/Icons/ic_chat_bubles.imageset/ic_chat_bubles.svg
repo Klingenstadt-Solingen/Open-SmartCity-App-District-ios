@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="50" viewBox="571 132 52 52" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Messages-Chat-Smileys / Conversation / conversation-chat-text" transform="matrix(1, 0, 0, 1, 0.966003, 0.999992)">
+    <g data-name="Group 127">
+      <g data-name="conversation-chat-text" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="m590.437 173.468-4.185 4.184v-8.695h-13.044c-1.2 0-2.174-.974-2.174-2.174v-32.609c0-1.2.974-2.174 2.174-2.174h39.13c1.2 0 2.175.974 2.175 2.174v15.217" data-name="Shape 496" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M594.947 173.305h10.87l8.696 8.695v-8.695h4.348c1.2 0 2.173-.974 2.173-2.174v-15.218c0-1.2-.973-2.174-2.173-2.174h-21.74c-1.2 0-2.174.974-2.174 2.174v17.392z" data-name="Shape 497" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M580.817 140.696h23.913" data-name="Shape 498" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M580.817 149.392h23.913" data-name="Shape 499" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M601.47 160.261h13.043" data-name="Shape 500" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M601.47 166.783h13.043" data-name="Shape 501" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M580.817 158.087h9.783" data-name="Shape 502" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

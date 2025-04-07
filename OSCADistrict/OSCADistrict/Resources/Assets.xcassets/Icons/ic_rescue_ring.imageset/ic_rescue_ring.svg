@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="50" viewBox="571 302 52 52" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Interface-Essential / Help / help-wheel" transform="matrix(1, 0, 0, 1, 0.966003, 1)">
+    <g data-name="Group 220">
+      <g data-name="help-wheel" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M596.034 352c13.807 0 25-11.194 25-25 0-13.808-11.193-25-25-25-13.806 0-25 11.192-25 25 0 13.806 11.194 25 25 25z" data-name="Oval 192" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M596.035 340.043c7.204 0 13.043-5.84 13.043-13.043 0-7.205-5.84-13.044-13.043-13.044-7.205 0-13.044 5.839-13.044 13.044 0 7.204 5.84 13.043 13.044 13.043z" data-name="Oval 193" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m616.52 312.673-8.714 8.714" data-name="Shape 1130" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m601.658 315.217 8.74-8.74" data-name="Shape 1131" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m581.698 347.495 8.713-8.713" data-name="Shape 1132" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m584.263 332.63-8.713 8.713" data-name="Shape 1133" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m610.386 347.472-8.71-8.712" data-name="Shape 1134" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m607.815 332.608 8.715 8.715" data-name="Shape 1135" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m575.56 312.651 8.71 8.711" data-name="Shape 1136" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m590.428 315.215-8.715-8.715" data-name="Shape 1137" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

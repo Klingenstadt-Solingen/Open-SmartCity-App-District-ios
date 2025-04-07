@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="50" viewBox="28 132 52 52" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Transportation / Parking / parking-p-1" transform="matrix(1, 0, 0, 1, 1, 1.039848)">
+    <g data-name="Group 142">
+      <g data-name="parking-p-1" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M63.87 160.261c7.804 0 14.13-6.326 14.13-14.13C78 138.326 71.674 132 63.87 132c-7.805 0-14.13 6.326-14.13 14.13 0 7.805 6.325 14.131 14.13 14.131z" data-name="Oval 219" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M60.609 153.739v-15.217h4.348a4.347 4.347 0 0 1 4.347 4.347 4.347 4.347 0 0 1-4.347 4.349h-4.348" data-name="Shape 1289" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M69.174 165.718c.087.347.13.706.13 1.064v6.522c0 1.2-.974 2.174-2.174 2.174H30.174c-1.2 0-2.174-.974-2.174-2.174v-6.522a4.347 4.347 0 0 1 4.348-4.347h17.391" data-name="Shape 1290" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m33.435 162.435.754-6.883a4.347 4.347 0 0 1 4.333-3.987h4.695" data-name="Shape 1291" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M34.522 171.13a2.175 2.175 0 0 0 0-4.347 2.175 2.175 0 0 0 0 4.348z" data-name="Oval 220" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M62.783 171.13a2.175 2.175 0 0 0 0-4.347 2.175 2.175 0 0 0 0 4.348z" data-name="Oval 221" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M38.87 175.478v3.261a3.262 3.262 0 0 1-6.522 0v-3.26" data-name="Shape 1292" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M64.957 175.478v3.261a3.262 3.262 0 0 1-6.522 0v-3.26" data-name="Shape 1293" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

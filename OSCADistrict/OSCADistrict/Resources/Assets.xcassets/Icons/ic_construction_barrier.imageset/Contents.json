@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_construction_barrier.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

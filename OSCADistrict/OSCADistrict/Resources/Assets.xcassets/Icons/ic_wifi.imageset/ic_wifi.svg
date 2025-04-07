@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36" height="34.547" viewBox="30 29.8 38.106 36.5" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Internet-Networks-Servers / Wifi / wifi">
+    <g data-name="Group 55">
+      <g data-name="wifi" stroke-linejoin="round" stroke-linecap="round" stroke="#004373">
+        <path d="M36.182 45.196c7.1-7.1 18.612-7.1 25.712 0" data-name="Shape 405" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+        <path d="M67.036 38.232a25.456 25.456 0 0 0-36 0" data-name="Shape 406" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+        <path d="M41.321 52.154a10.906 10.906 0 0 1 15.43 0" data-name="Shape 407" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+        <path d="M61.894 45.196c-7.1-7.1-18.612-7.1-25.712 0" data-name="Shape 408" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+        <path d="M56.752 52.154a10.906 10.906 0 0 0-15.429 0" data-name="Shape 409" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+        <path d="M49.036 65.323a3.635 3.635 0 0 0 3.636-3.636 3.635 3.635 0 0 0-3.636-3.637 3.635 3.635 0 0 0-3.636 3.637 3.635 3.635 0 0 0 3.636 3.636z" data-name="Oval 44" style="fill: rgba(0, 0, 0, 0); stroke-width: 0.65px;"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="41.304" height="50" viewBox="854 135.6 42.952 52" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Interface-Essential / Time / stopwatch" transform="matrix(1, 0, 0, 1, 0.824023, 1.002489)">
+    <g data-name="Group 233">
+      <g data-name="stopwatch" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M874.652 185.598c11.407 0 20.652-9.246 20.652-20.652 0-11.407-9.245-20.653-20.652-20.653-11.406 0-20.652 9.246-20.652 20.653 0 11.406 9.246 20.652 20.652 20.652z" data-name="Oval 196" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M868.13 135.598h13.044" data-name="Shape 1172" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m889.254 150.343 3.876-3.876" data-name="Shape 1173" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M871.391 144.547v-8.95h6.522v8.952" data-name="Shape 1174" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m892.043 145.38 2.174 2.175" data-name="Shape 1175" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m874.652 164.946-9.782-9.783" data-name="Shape 1176" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

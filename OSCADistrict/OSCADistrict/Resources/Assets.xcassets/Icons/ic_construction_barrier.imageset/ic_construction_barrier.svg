@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="50" viewBox="123 132 52 52" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Building-Construction / Construction / construction-sign" transform="matrix(1, 0, 0, 1, 1, 1)">
+    <g data-name="Group 65">
+      <g data-name="construction-sign" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M123 145.043c0-1.2.974-2.174 2.174-2.174h45.652c1.2 0 2.174.974 2.174 2.174v10.87c0 1.2-.974 2.174-2.174 2.174h-45.652c-1.2 0-2.174-.974-2.174-2.174v-10.87z" data-name="Rectangle-path 31" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M127.348 158.087V182" data-name="Shape 609" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M168.652 158.087V182" data-name="Shape 610" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M133.87 138.522a3.262 3.262 0 0 0 0-6.522 3.26 3.26 0 1 0 0 6.522z" data-name="Oval 17" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M162.13 138.522a3.262 3.262 0 0 0 0-6.522 3.26 3.26 0 1 0 0 6.522z" data-name="Oval 18" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M133.87 138.522v4.347" data-name="Shape 611" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M162.13 138.522v4.347" data-name="Shape 612" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m123.637 157.45 14.58-14.58" data-name="Shape 613" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m149.087 142.87-15.217 15.217" data-name="Shape 614" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m162.13 142.87-15.217 15.217" data-name="Shape 615" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="m172.363 143.506-14.58 14.58" data-name="Shape 616" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="365 46.9499 50 50.0001" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 370 71.9 C 370.038 56.528 386.729 46.96 400.043 54.681 C 413.357 62.4 413.309 81.617 399.957 89.27 C 386.642 96.902 370.038 87.329 370 72 L 370 71.9 Z" stroke-linejoin="round" stroke-linecap="round" stroke="#ffbf00" fill="#bfbfbf" stroke-width="1.025"/>
+  <path d="M 377.756 87.176 C 379.987 81.072 384.631 76.876 390 76.876 C 395.368 76.876 400.012 81.072 402.244 87.175 C 398.779 89.972 394.456 91.495 390 91.489 C 385.544 91.496 381.222 89.973 377.756 87.176 Z" fill="#fff" fill-rule="evenodd" data-name="Schnittmenge 1"/>
+  <path d="M 381.22 66.063 C 381.257 59.314 388.598 55.137 394.432 58.543 C 400.267 61.95 400.22 70.386 394.348 73.729 C 388.513 77.05 381.257 72.867 381.22 66.16 L 381.22 66.063 Z" fill="#fff" fill-rule="evenodd" data-name="Ellipse 60"/>
+</svg>

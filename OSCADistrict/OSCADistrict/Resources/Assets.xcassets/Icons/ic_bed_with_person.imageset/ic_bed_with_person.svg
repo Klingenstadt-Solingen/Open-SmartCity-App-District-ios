@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="50" height="27.174" viewBox="331 145.4 52 28.288" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="Hotels-Spas / Hotel/Bedrooms / hotel-bed" transform="matrix(1, 0, 0, 1, 1, 0.543992)">
+    <g data-name="Group">
+      <g data-name="hotel-bed" stroke-linejoin="round" stroke-linecap="round" stroke="#004373" fill="">
+        <path d="M331 172.587v-27.174" data-name="Shape" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M331 165.793h50" data-name="Shape 2" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M339.696 161.264c2.4 0 4.347-2.029 4.347-4.529 0-2.502-1.947-4.529-4.347-4.529-2.403 0-4.348 2.027-4.348 4.53 0 2.5 1.945 4.528 4.348 4.528z" data-name="Oval" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M372.667 161.264c.713 0 1.36-.437 1.653-1.114a1.946 1.946 0 0 0-.3-2.024c-4.47-5.24-13.455-8.476-23.871-8.164-.979.03-1.758.865-1.758 1.887v8.283c0 .625.487 1.132 1.087 1.132h23.189z" data-name="Shape 3" style="fill: rgba(0, 0, 0, 0);"/>
+        <path d="M381 172.587v-22.645" data-name="Shape 4" style="fill: rgba(0, 0, 0, 0);"/>
+      </g>
+    </g>
+  </g>
+</svg>

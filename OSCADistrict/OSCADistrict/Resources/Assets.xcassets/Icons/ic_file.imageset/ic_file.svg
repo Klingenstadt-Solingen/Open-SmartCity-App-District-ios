@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="vector" width="283.5" height="283.5" viewBox="0 0 283.5 283.5" xmlns="http://www.w3.org/2000/svg">
+  <path d="M65.6,65.6h97.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_0" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M65.6,171h152.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_1" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M65.6,206.1h152.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_2" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M65.6,241.3h152.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_3" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M65.6,100.8h152.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_4" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M65.6,135.9h152.2" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_5" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M241.3,276.4c6.5,0 11.7,-5.2 11.7,-11.7V77c0,-38.6 -31.3,-69.9 -70,-69.9H42.2c-6.5,0 -11.7,5.2 -11.7,11.7v245.9c0,6.5 5.2,11.7 11.7,11.7H241.3z" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_6" style="fill: rgba(0, 0, 0, 0);"/>
+  <path d="M194.4,8v45.9c0,6.5 5.2,11.7 11.7,11.7H252" stroke-linejoin="round" stroke-width="6" stroke="#000000" stroke-linecap="round" id="path_7" style="fill: rgba(0, 0, 0, 0);"/>
+</svg>
